@@ -13,5 +13,5 @@ If user is not registered yet then we will redirect user to registeration for hi
 
 This is all.
 
-Thank you,
+Thank you
 Mohammad Toshif Khan
